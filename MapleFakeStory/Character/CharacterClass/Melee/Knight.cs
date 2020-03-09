@@ -11,7 +11,7 @@ namespace MapleFakeStory.Character
     {
         public bool DefenseStance()
         {
-            throw new NotImplementedException();
+            return false;
         }
 
         public bool FuryStance()
